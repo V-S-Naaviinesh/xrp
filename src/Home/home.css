@@ -1,0 +1,22 @@
+.home-div {
+    
+    font-style: italic;
+    
+    width: 13rem;
+    padding: 3.5rem;
+    background: rgba(54, 138, 194, 0.2);
+    box-shadow: darkblue;
+    
+   
+}
+
+.home-div h2 {
+    text-align: center;
+    justify-content: center;
+    font-size: 2rem;
+}
+
+.pFont {
+    text-align: center;
+    font-size: 1rem;
+}
