@@ -33,7 +33,7 @@ const AboutUs = () => {
   </Card>
   <Card>
     <Card.Img variant="top" src={Me} style={{width:"100%", height:"50%"}}/>
-    <Card.Body>
+    <Card.Body> 
       <Card.Title>Leader's Jr.</Card.Title>
       <Card.Text>
         <p>V.S.Naaviinesh</p>
@@ -131,6 +131,7 @@ const AboutUs = () => {
     </Card.Footer>
   </Card>
 </div>
+
 </React.Fragment>
 )
 }

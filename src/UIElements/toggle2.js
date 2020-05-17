@@ -13,7 +13,7 @@ const Accounting = (props) => {
       <Collapse isOpen={isOpen}>
         <Card>
           <CardBody className="ShowMore">
-          ♥Accounting ♥Book-keeping ♥Clients Account ♥Payroll ♥Accounting Software ♥Accounting + Stock + Billing Software ♥Payroll Sofware ♥Clients Account Software ♥Software Are Lifetime No Monthly/Annual Subcription ♥Software Training & Installation
+          ♥Accounting ♥Book-keeping ♥Clients Account ♥Payroll ♥Accounting Software ♥Accounting + Stock + Billing Software ♥Payroll Software ♥Clients Account Software ♥Software Are Lifetime No Monthly/Annual Subcription ♥Software Training & Installation
           </CardBody>
         </Card>
       </Collapse>

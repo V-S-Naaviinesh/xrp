@@ -11,8 +11,6 @@ import HomeTwo from './Home/home2';
 import HomeThree from './Home/home3';
 import HomeFive from './Home/home5';
 
-
-
 const App = () => {
   return (
     <Router>
@@ -36,7 +34,7 @@ const App = () => {
               <HomeFive/>
             </div>
         </Route>
-        <Route path='/about-us'>
+        <Route path='/about-us'> 
             <AboutUs/>
             <div className="App-HomeFive">
               <HomeFive/>
