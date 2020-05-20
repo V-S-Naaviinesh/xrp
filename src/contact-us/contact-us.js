@@ -7,11 +7,10 @@ const ContactUs = () => {
         <div className='contactUs'>
   <h3>Have a Word</h3>
   <h3>Be Our Friend</h3>
-  
-  <p>Nathan</p>
+  <br/>
+  <h1>Nathan</h1>
   <p>+6012-45 10 658</p>
-  <p>Selva</p>
-  <p>+6011-261 808 45</p>
+  <p>nms.perak@gmail.com</p>
 
     <Button variant="contained" color="success" disableElevation>
 
