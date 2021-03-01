@@ -22,15 +22,16 @@ const Example = (props) => {
 
 We are and have remained out of choice a relatively small firm with a compliment of 1-5 personals at any one time, together with outsourced personals. This enables us to remain flexible, efficient and cost effective.
 We are dedicated to our clients and go out of our way to provide a personal and professional service. We speak a number of languages including English, Malay , Tamil.
-<div className="Aca"></div>
-<div className="New">
-We are Authorised and Regulated by the Suruhanjaya Syarikat Malaysia 
 
-<p>PractisingCertificate:201908001386 </p>
+<div className="New">
+<p>We are Authorised and Regulated by the Suruhanjaya Syarikat Malaysia</p>
 <p>LisencedSecretary:LS0000223</p>
+<p>PractisingCertificate:201908001386 </p>
+<div className="Aca"></div>
 <p>Association of Certified Accountants (M)</p>
 <p>Institute of Public Accountants (IPA Australia)</p>
 <p>Chartered Tax Institute of Malaysia</p>
+<p>Asian Association of Certified Consultants</p>
 
 
 </div>
