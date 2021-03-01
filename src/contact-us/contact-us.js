@@ -15,7 +15,10 @@ const ContactUs = () => {
     <Button variant="contained" color="success" disableElevation>
 
              <a href='https://www.google.com/maps/place/Nathan+Management+Services/@4.5985993,101.0940411,17z/data=!3m1!4b1!4m5!3m4!1s0x31caec7ea98be341:0xf99f32d567751af6!8m2!3d4.5985993!4d101.0940411'>Find Us On Google Maps</a>
+            
     </Button>
+    <Button> <p>Plus Code: H3XV+CJ Ipoh, Perak</p></Button>
+
     <p></p>
     <h5>Address</h5>
     <p>C-2-06, 2nd Floor,</p>

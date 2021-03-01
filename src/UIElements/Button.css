@@ -1,4 +1,24 @@
 .ShowMore {
     
     font-weight: bolder;
+    
 }
+
+
+.Aca{
+    background-image: url(./Screenshot_2020-11-26_160126-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 50px;
+    padding: 6rem 0 0 0;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    justify-content: space-around;
+}
+
+.New {
+    color: green;
+    font-weight: bolder;
+    font-size: medium;
+  }

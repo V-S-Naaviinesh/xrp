@@ -13,7 +13,8 @@ import HomeFive from './Home/home5';
 
 const App = () => {
   return (
-    <Router>
+    <Router >
+      <div className='Complete-Background'>
       <MainNavigation/>
    <div className="App-body">
       <Switch>
@@ -49,6 +50,7 @@ const App = () => {
         </Route> 
         <Redirect to='/home' />
       </Switch>
+   </div>
    </div>
     </Router>
   )

@@ -13,7 +13,7 @@ const BusinessImprovement = (props) => {
       <Collapse isOpen={isOpen}>
         <Card>
           <CardBody className="ShowMore">
-          ☻Company Profile Write-Up ☻Business Plan Write-Up ☻Business Registration ☻Trademark ☻Industrial Design ☻Geographical Indication ☻Copyright ☻R.O.S Advisory ☻Web-Developing ☻Google Advertising ☻Numerology For BusinessNames
+          🎲Black Heart Emoji 🎲Black Heart Emoji 🎲Black Heart Emoji 🎲Company Profile Write-Up 🎲Business Plan Write-Up 🎲Business Registration 🎲Trademark 🎲Industrial Design 🎲Geographical Indication 🎲Copyright 🎲R.O.S Advisory 🎲Web-Developing 🎲Google Advertising 🎲Numerology For BusinessNames
           </CardBody>
         </Card>
       </Collapse>
