@@ -38,7 +38,8 @@ const MainNavigation = (props) => {
             </button>
             <h1 className="main-navigation__title">
                 <Link to="/home">
-                    <div className="NMS">Nathan Management Services</div>
+                    <div className="NMS">Nathan Management Services  <h8 className="NMSmini">(IP0035418-D)</h8> </div>
+                   
                 </Link>
             </h1>
             <nav className="main-navigation__header-nav">

@@ -4,6 +4,12 @@
     color: lightgrey;
 }
 
+.NMSmini {
+    font-size: 1rem;
+    font-weight: bolder;
+    color: lightgrey;
+}
+
 
 .main-navigation__menu-btn {
     width: 3rem;
