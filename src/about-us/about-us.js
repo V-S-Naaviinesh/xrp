@@ -14,6 +14,7 @@ const AboutUs = () => (
         <div className="leader"/>
 
     </div>
+    
     <br/>
     <div> 
         <h1>Main Entrance</h1>
@@ -49,6 +50,14 @@ const AboutUs = () => (
        <p>We are one of the early adoptors of the online submitions.We do provide MAKERS services for AnnualReport & Annual Return lodgements.</p>
        <div className="mbrs"/>
    </div>
+   <br/>
+    <div> 
+        <h1>SSM Biztrust Cert</h1>
+        <p>Accredited with Biztrust Registration</p>
+        <div className="biztrust-cert"/>
+
+    </div>
+    <br/>
    </div>
     </React.Fragment>
 )

@@ -32,6 +32,19 @@
 
 }
 
+.biztrust-cert{ 
+    background-image: url(./Screenshot\ 2021-03-08\ 104833.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 350px;
+    padding: 0 0 0 0;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    justify-content: space-around;
+
+}
+
 .main-entrance{
     background-image: url(./20190627_162634.jpg);
     background-repeat: no-repeat;
