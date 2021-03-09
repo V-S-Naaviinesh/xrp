@@ -25,16 +25,27 @@ We are dedicated to our clients and go out of our way to provide a personal and 
 
 <div className="New">
 <p>We are Authorised and Regulated by the Suruhanjaya Syarikat Malaysia</p>
+<a href="https://www.ssm.com.my/Pages/Home.aspx">
 <div className="SSMlogo"></div>
+</a>
+
 <p>LisencedSecretary:LS0000223</p>
 <p>PractisingCertificate:201908001386 </p>
+<a href="https://certified-accountants.org.my/">
 <div className="Aca"></div>
+</a>
 <p>Association of Certified Accountants (M)</p>
+<a href="https://www.publicaccountants.org.au/">
 <div className="IPA"></div>
+</a>
 <p>Institute of Public Accountants (IPA Australia)</p>
+<a href="http://www.ctim.org.my/">
 <div className="CTIM"></div>
+</a>
 <p>Chartered Tax Institute of Malaysia</p>
+<a href="https://aacc.asia/">
 <div className="AACC"></div>
+</a>
 <p>Asian Association of Certified Consultants</p>
 
 
