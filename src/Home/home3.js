@@ -6,6 +6,8 @@ import AuditingAuditorIntroducing from '../UIElements/toggle3';
 import BusinessImprovement from '../UIElements/toggle5';
 import {Button} from 'reactstrap';
 import {NavLink} from 'react-router-dom';
+import './home3.css';
+import BiztrustLogo from './1svg.svg';
 
 
 
@@ -38,6 +40,17 @@ const HomeThree = () => {
          </NavLink>
 
             <h1>---</h1>
+
+        <div className="logo-container">
+            <NavLink to="https://biztrust.ssm.com.my/">
+            <img src={BiztrustLogo} alt="BizTrust Logo" />
+            </NavLink>
+        
+        </div>
+
+
+
+
         </div>
 
 
