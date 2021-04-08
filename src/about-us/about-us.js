@@ -10,7 +10,7 @@ const AboutUs = () => (
     <div>
         <h1 className="leader-title">TheLeader</h1>
         <p>Silvernathan s/o M.K.Vallipuram</p>
-        <p>@ Nathan</p>
+        <p>@  Nathan</p>
         <div className="leader"/>
 
     </div>
