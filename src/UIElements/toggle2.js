@@ -9,11 +9,11 @@ const Accounting = (props) => {
 
   return (
     <div>
-      <Button color="secondary" onClick={toggle} style={{ marginBottom: '1rem' }}>Accounting</Button>
+      <Button color="secondary" onClick={toggle} style={{ marginBottom: '1rem' }}>HTML</Button>
       <Collapse isOpen={isOpen}>
         <Card>
           <CardBody className="ShowMore">
-          ♥Accounting ♥Book-keeping ♥Clients Account ♥Payroll ♥Accounting Software ♥Accounting + Stock + Billing Software ♥Payroll Software ♥Clients Account Software ♥Software Are Lifetime No Monthly/Annual Subcription ♥Software Training & Installation
+          -BEGINNER LEVEL-Currently refering to https://www.w3schools.com/ and still educating myself
           </CardBody>
         </Card>
       </Collapse>

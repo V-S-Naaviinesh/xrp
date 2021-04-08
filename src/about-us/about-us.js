@@ -8,55 +8,32 @@ const AboutUs = () => (
     <React.Fragment>
         <div className="fullpage">
     <div>
-        <h1 className="leader-title">TheLeader</h1>
-        <p>Silvernathan s/o M.K.Vallipuram</p>
-        <p>@  Nathan</p>
-        <div className="leader"/>
+        <h1 className="leader-title">My 1st project</h1>
+        <Button variant="contained" color="secondary" disableElevation>
+        <a href="https://master.d3re8t91yliw1s.amplifyapp.com/home">Go to Website</a>
+        </Button>
+        <p>Nathan Management Services</p>
+      
+       
 
     </div>
     
     <br/>
     <div> 
-        <h1>Main Entrance</h1>
-        <p>NMS Welcomes You!</p>
-        <div className="main-entrance"/>
-
-    </div>
-    <br/>
-    <div>
-        <h1>TheTeam'sTerrain</h1>
-        <p>The playground of our professional team!</p>
-    </div>
-    <div className="terrain"/>
-    <br/>
-    <div>
-        <h1>TheBook</h1>
-        <p>To be obeyed!</p>
+        <h1>My Second Project</h1>
+        <p>E-Commerce</p>
         <Button variant="contained" color="secondary" disableElevation>
-        <a href="http://www.federalgazette.agc.gov.my/outputaktap/aktaBI_20160915_CompaniesAct2016Act777.pdf">READ ME?</a>
+        <a href="https://master.d221hlj9cd1o1n.amplifyapp.com/">Go to Website</a>
         </Button>
-        <div className="thebook"/>
+    
 
     </div>
     <br/>
-    <div>
-        <h1>E-Wallet's Accepted Here!</h1>
-        <p> The shown E-Wallet's payment is accepted.Minable cryptocurrency is accepted upon request.Cash is King always!</p>
-        <div className="ewallet"/>
-   </div>
-   <br/>
-   <div>
-       <h1>MBRS</h1>
-       <p>We are one of the early adoptors of the online submitions.We do provide MAKERS services for AnnualReport & Annual Return lodgements.</p>
-       <div className="mbrs"/>
-   </div>
-   <br/>
-    <div> 
-        <h1>SSM Biztrust Cert</h1>
-        <p>Accredited with Biztrust Registration</p>
-        <div className="biztrust-cert"/>
-
-    </div>
+ 
+    <br/>
+  
+    <br/>
+  
     <br/>
    </div>
     </React.Fragment>

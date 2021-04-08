@@ -9,11 +9,12 @@ const AuditingAuditorIntroducing = (props) => {
 
   return (
     <div>
-      <Button color="secondary" onClick={toggle} style={{ marginBottom: '1rem' }}>AuditorIntroducer</Button>
+      <Button color="secondary" onClick={toggle} style={{ marginBottom: '1rem' }}>CSS</Button>
       <Collapse isOpen={isOpen}>
         <Card>
           <CardBody className="ShowMore">
-          ♦Well Experinced Auditors
+            -BEGINNER LEVEL-
+          Sass scss css and more! Learning.Currently refering to https://www.w3schools.com/ and still educating myself
           </CardBody>
         </Card>
       </Collapse>

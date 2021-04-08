@@ -9,11 +9,11 @@ const BusinessImprovement = (props) => {
 
   return (
     <div>
-      <Button color="secondary" onClick={toggle} style={{ marginBottom: '1rem' }}>BusinessImprovement</Button>
+      <Button color="secondary" onClick={toggle} style={{ marginBottom: '1rem' }}>TYPESCRIPT</Button>
       <Collapse isOpen={isOpen}>
         <Card>
           <CardBody className="ShowMore">
-          🎲Company Profile Write-Up 🎲Business Plan Write-Up 🎲Business Registration 🎲Trademark 🎲Industrial Design 🎲Geographical Indication 🎲Copyright 🎲R.O.S Advisory 🎲Web-Developing 🎲Google Advertising 🎲Numerology For BusinessNames
+          TYPESCRIPT IS 100% ERROR FREE ADAPTING MYSELF WITH THOSE SKILL 
           </CardBody>
         </Card>
       </Collapse>

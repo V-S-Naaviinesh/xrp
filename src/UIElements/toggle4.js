@@ -9,11 +9,12 @@ const Taxation = (props) => {
 
   return (
     <div>
-      <Button color="secondary" onClick={toggle} style={{ marginBottom: '1rem' }}>Taxation</Button>
+      <Button color="secondary" onClick={toggle} style={{ marginBottom: '1rem' }}>JAVASCRIPT</Button>
       <Collapse isOpen={isOpen}>
         <Card>
           <CardBody className="ShowMore">
-          ♣STAMPS ♣E-Filing ♣Form B ♣Form BE ♣Form P ♣Form M ♣Form E ♣Form C ♣Form C1 ♣Form R ♣CP 204 ♣CP 204A ♣Form TF ♣Form TC ♣Form TA ♣Form PT
+          -BEGINNER LEVEL- JAVASCRIPT..
+          KEEP UPDATING MYSELF WITH THE LASTEST ECMASCRIPT AVAILABLE
           </CardBody>
         </Card>
       </Collapse>

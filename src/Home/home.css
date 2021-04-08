@@ -1,22 +1,13 @@
 .home-div {
     
-    font-style: italic;
-    
-    width: 13rem;
-    padding: 3.5rem;
-    background: rgba(54, 138, 194, 0.2);
-    box-shadow: darkblue;
-    
+        background-image: url(./20200401_095146-ANIMATION.gif);
+        background-position: center;
+        height: 500px;
+        background-size: contain;
+        background-repeat: no-repeat;
+        justify-content: space-around;
+        margin-left: 1rem;
+        margin-right: 1rem;
    
 }
 
-.home-div h2 {
-    text-align: center;
-    justify-content: center;
-    font-size: 2rem;
-}
-
-.pFont {
-    text-align: center;
-    font-size: 1rem;
-}

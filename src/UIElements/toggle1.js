@@ -9,11 +9,11 @@ const CorporateSecretarial = (props) => {
 
   return (
     <div>
-      <Button color="secondary" onClick={toggle} style={{ marginBottom: '1rem' }}>CorporateSecretarial</Button>
+      <Button color="secondary" onClick={toggle} style={{ marginBottom: '1rem' }}>REACT JS</Button>
       <Collapse isOpen={isOpen}>
         <Card>
           <CardBody className="ShowMore">
-          ♠Incorporation of Company ♠Resolutions ♠Reminders ♠Share Transfer ♠Share Capital Increse/Decrease ♠Annual Return ♠Annual Report ♠Striking-Off ♠Winding Up ♠Schedule A ♠Schedule B ♠Schedule C ♠Listed Only Commonly Requested Services Out Of Hundreds Of Secretary Duties
+          Started my 1st react js project during COVID-19 outbreak.Learned completely from outsourced websites and official react website
           </CardBody>
         </Card>
       </Collapse>
