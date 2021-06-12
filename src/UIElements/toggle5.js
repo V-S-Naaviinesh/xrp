@@ -9,11 +9,11 @@ const BusinessImprovement = (props) => {
 
   return (
     <div>
-      <Button color="secondary" onClick={toggle} style={{ marginBottom: '1rem' }}>TYPESCRIPT</Button>
+      <Button color="secondary" onClick={toggle} style={{ marginBottom: '1rem' }}>∞</Button>
       <Collapse isOpen={isOpen}>
         <Card>
           <CardBody className="ShowMore">
-          TYPESCRIPT IS 100% ERROR FREE ADAPTING MYSELF WITH THOSE SKILL 
+          The infinity symbol ∞ is a mathematical symbol representing the concept of infinity
           </CardBody>
         </Card>
       </Collapse>

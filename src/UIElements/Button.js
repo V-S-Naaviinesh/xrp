@@ -18,7 +18,7 @@ const Example = (props) => {
           
           <CardBody className="ShowMore">
             
-        Working in my dad Accounting Firm for past 5 Years but experiencing the situation since young.Improving the business into digital world as the world progress adapting the situation.
+        I myself Doesn't know What i Know
 
 
 

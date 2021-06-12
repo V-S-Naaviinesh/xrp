@@ -38,7 +38,7 @@ const MainNavigation = (props) => {
             </button>
             <h1 className="main-navigation__title">
                 <Link to="/home">
-                    <div className="NMS">My Resume</div>
+                    <div className="NMS">MySelf</div>
                    
                 </Link>
             </h1>

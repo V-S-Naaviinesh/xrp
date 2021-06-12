@@ -34,7 +34,7 @@ const HomeThree = () => {
                  ♾️
          <NavLink to="./about-us">
             <Button color="secondary" style={{color:"black", fontSize:"1rem"}}>
-                Go To Project
+                XRP Gallery
             </Button>
          </NavLink>
 

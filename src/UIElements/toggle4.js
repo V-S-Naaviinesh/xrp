@@ -9,12 +9,11 @@ const Taxation = (props) => {
 
   return (
     <div>
-      <Button color="secondary" onClick={toggle} style={{ marginBottom: '1rem' }}>JAVASCRIPT</Button>
+      <Button color="secondary" onClick={toggle} style={{ marginBottom: '1rem' }}>REPEAT</Button>
       <Collapse isOpen={isOpen}>
         <Card>
           <CardBody className="ShowMore">
-          -BEGINNER LEVEL- JAVASCRIPT..
-          KEEP UPDATING MYSELF WITH THE LASTEST ECMASCRIPT AVAILABLE
+          to happen, or to do something, more than once
           </CardBody>
         </Card>
       </Collapse>

@@ -5,7 +5,7 @@ import Carousel from 'react-bootstrap/Carousel';
 const HomeTwo = () => {
     return (
       <React.Fragment >
-      <div className='ourServices'><h2>My Skills</h2><p>Move through the slider to read about the services we offer</p></div>
+      <div className='ourServices'><h2>My Skills</h2><p>Move through the slider to read about my skills</p></div>
       <div>
  <Carousel>
   <Carousel.Item>
@@ -15,7 +15,7 @@ const HomeTwo = () => {
       alt="First slide"
     />
     <Carousel.Caption className='aA'>
-      <h1>REACT JS</h1>
+      <h1>Eat</h1>
     </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>
@@ -26,7 +26,7 @@ const HomeTwo = () => {
     />
 
     <Carousel.Caption className='aA'>
-      <h1>HTML</h1>
+      <h1>Sleep</h1>
     </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>
@@ -37,7 +37,7 @@ const HomeTwo = () => {
     />
 
     <Carousel.Caption className='aA'>
-      <h1>CSS</h1>
+      <h1>Rave</h1>
     </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>
@@ -48,7 +48,7 @@ const HomeTwo = () => {
     />
 
     <Carousel.Caption className='aA'>
-      <h1>JAVASCRIPT</h1>
+      <h1>Repeat</h1>
     </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>
@@ -59,7 +59,7 @@ const HomeTwo = () => {
     />
 
     <Carousel.Caption className='aA'>
-      <h1>TYPESCRIPT</h1>
+      <h1>∞</h1>
     </Carousel.Caption>
   </Carousel.Item>
 </Carousel>
