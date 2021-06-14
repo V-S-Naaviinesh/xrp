@@ -9,7 +9,7 @@ const Toml = () => {
 
 [METADATA]
 modified = 2021-06-14T00:00:00.000Z
-expires = 2021-06-30T00:00:00.000Z
+expires = 2022-06-14T00:00:00.000Z
 
 [[VALIDATORS]]
 network = "main"
@@ -55,7 +55,7 @@ code = "XVM"
 issuer = "rnMAHMtRuGg483Xo4r6XJjrifpm7ukAGaE"
 network = "main"
 display_decimals = 2
-symbol = "🍔" 
+symbol = "XVM" 
 # End of file
             
         </div>
