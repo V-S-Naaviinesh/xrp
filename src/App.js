@@ -10,7 +10,7 @@ import HomeOne from './Home/home1';
 import HomeTwo from './Home/home2';
 import HomeThree from './Home/home3';
 import HomeFive from './Home/home5';
-import Toml from './toml/toml'
+
 
 
 const App = () => {
@@ -50,7 +50,6 @@ const App = () => {
               <HomeFive/>
             </div>
         </Route> 
-        <Route path='/.well-known/xrp-ledger.toml' component={Toml} ></Route>
         <Redirect to='/home' />
       </Switch>
    </div>

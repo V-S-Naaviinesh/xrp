@@ -1,14 +1,5 @@
-import React from 'react';
-
-
-
-const Toml = () => {
-    return (
-      
-        <div >
-
 [METADATA]
-modified = 2021-06-14T00:00:00.000Z
+modified = 2021-06-17T00:00:00.000Z
 expires = 2022-06-14T00:00:00.000Z
 
 [[VALIDATORS]]
@@ -25,7 +16,7 @@ unl = "https://vl.testnet.rippletest.net"
 
 [[ACCOUNTS]]
 address = "rGJTFYUudEBKHc5C47996kVdCFjUo83wNm"
-desc = "51% owned by V.S.Naaviinesh"
+desc = "XUM MainOwner"
 
 [[SERVERS]]
 json_rpc = "https://s1.ripple.com:51234/"
@@ -47,8 +38,10 @@ network = "testnet"
 desc = "Test Net public server cluster"
 
 [[PRINCIPALS]]
-name = "V.S.Naaviinesh" # Primary spec author
+name = "V.S.Naaviinesh"
 email = "naaviinesh.v.s@gmail.com" 
+twitter ="V.S.Naaviinesh"
+facebook="V.S. Naaviinesh"
 
 [[CURRENCIES]]
 code = "XVM"
@@ -57,9 +50,3 @@ network = "main"
 display_decimals = 2
 symbol = "XVM" 
 # End of file
-            
-        </div>
-    )
-}
-
-export default Toml;
