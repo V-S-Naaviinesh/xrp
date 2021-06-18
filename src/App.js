@@ -20,7 +20,7 @@ const App = () => {
       <MainNavigation/>
    <div className="App-body">
       <Switch>
-        <Route path='/home' exact>
+        <Route path='/' exact>
           <div className="App-home">
           <Home />
           </div>
@@ -50,7 +50,7 @@ const App = () => {
               <HomeFive/>
             </div>
         </Route> 
-        <Redirect to='/home' />
+        <Redirect to='/' />
       </Switch>
    </div>
    </div>

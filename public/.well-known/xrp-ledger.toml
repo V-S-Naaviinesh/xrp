@@ -1,16 +1,15 @@
 [METADATA]
-modified = 2021-06-17T00:00:00.000Z
-expires = 2022-06-14T00:00:00.000Z
+modified = 2021-06-18T00:00:00.000Z
 
 [[VALIDATORS]]
 network = "main"
-owner_country = "myr"
+owner_country = "us"
 server_country = "us"
 unl = "https://vl.ripple.com"
 
 [[VALIDATORS]]
 network = "testnet"
-owner_country = "myr"
+owner_country = "us"
 server_country = "us"
 unl = "https://vl.testnet.rippletest.net"
 
@@ -42,11 +41,13 @@ name = "V.S.Naaviinesh"
 email = "naaviinesh.v.s@gmail.com" 
 twitter ="V.S.Naaviinesh"
 facebook="V.S. Naaviinesh"
+url="https://r5zwe-fqaaa-aaaad-qafxq-cai.ic.fleek.co/"
 
 [[CURRENCIES]]
 code = "XVM"
 issuer = "rnMAHMtRuGg483Xo4r6XJjrifpm7ukAGaE"
 network = "main"
 display_decimals = 2
-symbol = "🍔" 
+symbol = "https://images.pexels.com/photos/8379294/pexels-photo-8379294.png?auto=compress&cs=tinysrgb&dpr=3&h=30&w=50.4" 
+owner_country = "myr"
 # End of file
