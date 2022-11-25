@@ -15,8 +15,8 @@ const ContactUs = () => {
   <br/>
 
   <h2>V.S.Naaviinesh</h2>
-  <p>+6011-261 808 45</p>
-  <p>naaviinesh.v.s@gmail.com</p>
+  <p>+60 164 686 56</p>
+  <p>v.s.naaviinesh@outlook.com</p>
 
     
    
